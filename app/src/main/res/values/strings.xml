@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PairProgramming1</string>
+    <string name="rec_time">Record Time</string>
 </resources>
